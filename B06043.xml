@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Charles Duke of Sconberg, Lieutenant-General to His Majesty of Great Britain, and colonel of his First Regiment of English Guards, to the inhabitants of Dauphine</title>
+            <author>Schomberg, Charles Schomberg, Duke of, 1645-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06043</idno>
+            <idno type="STC">Wing S868B</idno>
+            <idno type="STC">ESTC R183266</idno>
+            <idno type="EEBO-CITATION">53981564</idno>
+            <idno type="OCLC">ocm 53981564</idno>
+            <idno type="VID">180319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180319)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Charles Duke of Sconberg, Lieutenant-General to His Majesty of Great Britain, and colonel of his First Regiment of English Guards, to the inhabitants of Dauphine</title>
+                  <author>Schomberg, Charles Schomberg, Duke of, 1645-1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: At Ambrum, Aug. 29. 1692.</note>
+                  <note>"Licensed, Edmund Bohun."</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Sources.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180319:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <hi>The DECLARATION of</hi> Charles <hi>Duke of</hi> Sconberg, <hi>Lieutenant-General to His Majesty of</hi> Great Britain, <hi>and Collonel of His Firſt Regiment of</hi> Engliſh <hi>Guards;</hi> to the <hi>Inhabitants of Dauphine.</hi>
+            </head>
+            <p>AS the Violences which <hi>France</hi> has exerciſed upon all its Neighbours, ought to make the Subjects of that Kingdom fear, that if the Allies ſhould enter into his Eſtates, they would take a Vengeance proportionable to the Wrongs which they have ſuffered from him: We think it is our duty to inform them of the good Intentions of the King our Maſter towards them.</p>
+            <p>The World knows, that he has been forc'd to take Arms, becauſe his Eſtates in <hi>Burgundy</hi> were unjuſtly ſeized by the King of <hi>France,</hi> His Principality of <hi>Orange</hi> was ſack'd, and all his Subjects oppreſs'd: Theſe Injuries have alſo been attend<g ref="char:EOLhyphen"/>ed with the moſt baſe and unworthy Circumſtances, that the Fury of his Enemies could ſuggeſt: endeavouring to out him of all that was due to him by Birth or Succeſſion, for the preſent, or in times to come: For this cauſe he was forc'd to take Arms to recover what was his own, and he intends to imploy them for the preſervation of all men, in the poſſeſſion of their Eſtates and Rights.</p>
+            <p>This is the end for which he has ſent me into <hi>France;</hi> and his only intention is, to eſtabliſh the Nobility, Parliaments, and People, in their Ancient Luſtre, and the Towns and Provinces in their Priviledges. He knows, that the Nobility has been troden under foot, that the Parliaments have no Authority, that the Peo<g ref="char:EOLhyphen"/>ple have been ruin'd, by Taxes; But now if the Nobility, the Parliaments, and the People, do not abandon their own Intereſt, and neglect this Opportunity, the King, my Maſter, will ſee the General Eſtates of <hi>France</hi> eſtabliſhed; the Gen<g ref="char:EOLhyphen"/>try ſecured in the enjoyment of thoſe Priviledges which belong unto their Birth; and will reſtore unto their Parliaments their Ancient Luſtre and Authori<g ref="char:EOLhyphen"/>ty; and deliver the Oppreſſed People from their Devouring Taxes.</p>
+            <p>The King, my Maſter, having taken Arms for no other end, but to maintain the Rights of others, as well as his own, there is no reaſon for his Enemies to pre<g ref="char:EOLhyphen"/>tend, That this is a War of Religion; which is deſign'd for no other end, but to kindle in the People a falſe Zeal, the laying of a ſnare for their Credulity, that they may be enabled to make them ſpend the laſt drop of their Blood in this Quar<g ref="char:EOLhyphen"/>rel. The Clergy, however, are not to be taken by ſuch groſs Impoſtures; the Cauſes and True Authors of this War being well known unto them. But, however, I de<g ref="char:EOLhyphen"/>clare unto the Clergy, of what Dignity ſoever they be, that the King, my Maſter, will take them all into his Protection; and that their Priviledges and Eſtates ſhall be ex<g ref="char:EOLhyphen"/>actly preſerved; That he will exemplarily puniſh all thoſe which ſhall do them any Injury; and that there ſhall not be any Change brought upon them, with reſpect to the <hi>Roman</hi> Catholick Religion. Yet foraſmuch as the Kings of <hi>England</hi> are Gua<g ref="char:EOLhyphen"/>rantees for the Edict of <hi>Nants,</hi> the Peace of <hi>Montpelier,</hi> and many other Treaties of that Nature, the King, my Maſter, believes himſelf to be obliged to maintain that Guaranty, and to cauſe the ſaid Edict to be Eſtabliſhed. All good <hi>French</hi> men ought to Aid Him in this, becauſe that Edict was the Great Work of <hi>Henry</hi> the Fourth, whoſe Wiſdom and Memory is ſo dear unto them. The <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholicks who have had the Generoſity to look with Compaſſion upon the Suffe<g ref="char:EOLhyphen"/>rings of the Proteſtants, will without doubt, take pleaſure to ſee them Re-eſta<g ref="char:EOLhyphen"/>bliſhed. It is alſo hop'd, that the Gentlemen of the Clergy, having now made ſerious Reflections thereupon, will be well content therewith; and by a Wiſe and Chriſtian Conduct, teſtifie, That they had no part in the Violation of the ſaid Edict, and all the Cruelties which have followed upon it.</p>
+            <p>And all thoſe which ſhall Joyn with us, ſhall receive thoſe Recompenſes and Marks of Diſtinction, as their Services ſhall Deſerve, and which we ſhal be able to give them.</p>
+            <p>But on the contrary, All thoſe which ſhall be ſo far from Aiding us, as to Joyn with the Oppreſſors of their Country, can expect nothing but the Severities of a Military Execution. And we declare to all thoſe that will live in Peace at Home, That they ſhall have no Injury done them as to their Lives or Fortunes.</p>
+            <closer>
+               <dateline>At <hi>Am<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>run,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 29. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <signed>EDM<g ref="char:V">Ʋ</g>ND BOH<g ref="char:V">Ʋ</g>N.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
